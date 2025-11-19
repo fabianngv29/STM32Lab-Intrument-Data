@@ -1,0 +1,41 @@
+Group,q1_understanding_of_microcontrollers,q2_ability_to_program_microcontroller,q3_microcontroller_sensor_actuator_comm,q4_apply_microcontroller_concepts,q5_debugging_skills_asm_c,q6_identify_fix_hw_sw_errors,q7_use_configure_io_ports_registers,q8_implement_external_interfaces,q9_interpret_datasheets_manuals,q10_apply_product_lifecycle,q11_structuring_code_with_functions,q12_document_projects,q13_confidence_solving_technical_problems,q14_prepared_for_interdisciplinary_projects,q15_autonomous_learning_capability,q16_identify_applications_robotics_iot_automation,q17_course_competencies_professional_usefulness,q18_learning_expectations,q19_anticipated_difficulties,q20_suggestions_for_course_improvement
+1,4,3,5,4,4,4,4,3,4,3,3,4,3,4,2,4,5,Programming and operating microcontrollers correctly,None,None
+1,4,5,5,4,4,4,5,4,4,3,4,5,4,4,3,4,5,The basics and operation of microcontrollers,"None from instructor, only student-related",Provide student notes
+1,5,5,5,5,4,5,4,3,4,4,5,5,4,4,5,5,5,Deep operation and low?level programming,Too much information,None
+1,4,3,4,4,3,3,4,3,4,3,3,4,3,3,4,4,5,Master embedded C and understand architecture,I don’t fully master programming,No suggestions
+1,5,5,3,4,3,2,3,1,3,2,3,2,2,3,5,5,5,Gain knowledge to program and operate microcontrollers,Difficulty with low-level interactions,Wait until we have basics
+1,5,3,4,4,3,3,4,3,4,4,5,3,5,4,4,3,5,Learn to program microcontrollers well,Lack of practice,More programming languages
+1,5,5,4,4,3,4,4,3,4,3,4,4,4,4,5,4,5,Apply knowledge efficiently in projects,I get lost if distracted,No suggestions
+1,4,3,4,3,3,3,4,3,3,3,4,4,3,3,2,3,4,"What a microprocessor is, how it works and how to use it",We go too fast,Go slower
+1,4,4,4,4,3,4,4,4,4,4,3,4,4,4,4,4,5,Learn about microcontrollers,Difficulty programming,More visual explanations
+1,2,4,2,3,4,4,2,3,3,3,3,3,4,4,1,3,2,Understand and improve my programming,Lack of hardware device,Classes in laboratory
+1,4,3,3,3,4,3,3,3,3,3,3,3,3,3,4,3,5,Apply low-level programming for projects,Object?oriented logic issues,Logic exercises
+1,3,2,2,2,2,2,2,3,1,2,2,2,2,2,2,3,2,Assembly language,Fast pace,Explain topics in more detail
+1,5,4,2,3,4,4,3,2,4,2,3,4,3,4,2,4,4,Microcontrollers and their relation to electronic components,Programming is difficult,More examples
+1,4,3,4,3,4,4,3,2,3,3,4,5,2,4,4,3,5,"C, assembly and STM32",Learning a new language is long,Everything correct
+1,4,3,4,3,2,3,4,2,4,3,3,3,2,2,4,3,4,Foundations for programming devices,Programming itself,Progressive exercises
+1,3,2,3,3,2,3,3,2,3,3,3,4,3,2,3,4,5,Programming,Understanding the program,Return to previous schedule
+1,5,5,4,4,5,5,4,3,4,3,5,4,5,4,5,4,5,Learn assembly in depth,Obtaining materials and installing drivers,Provide lab materials
+1,4,4,4,3,3,4,4,3,3,3,3,4,3,3,4,4,4,Microcontrollers and assembly programming,Confusion while programming,Everything fine
+1,3,3,2,3,3,2,3,3,3,2,3,2,3,3,3,2,5,Structured programming,I need more practice,More practices
+1,3,2,2,3,2,3,3,2,3,2,3,2,3,3,3,2,4,"Registers, pointers and debugging",Debugging,Examples with practices
+2,3,1,2,3,4,1,2,1,3,1,4,3,1,1,2,2,5,More advanced hardware programming,Remembering how to structure code,Examples with explanation
+2,4,4,3,4,5,5,4,4,3,4,3,3,4,5,5,5,5,Use the Blue Pill for sumo or explorer robot competitions,Tiredness from work,Everything is fine
+2,3,2,2,2,2,2,1,1,2,1,1,3,2,2,2,1,5,The principles of microcontrollers and programming them,Learning to use new software,Add step?by?step instructions in slides
+2,1,1,3,4,4,4,3,3,3,3,4,5,4,3,4,5,5,Master and understand microcontrollers,Assembly programming,None
+2,4,4,3,3,2,3,3,2,3,4,4,4,4,4,4,4,3,The use of microcontrollers,Code execution on board,Everything is good
+2,2,2,3,2,3,3,3,4,3,3,3,2,3,3,2,2,2,Everything we have been learning so far,Need to be more self?taught,Record classes
+2,1,2,2,3,2,3,2,2,2,3,2,2,3,3,1,1,1,"How to program microcontrollers, understand logic, operation and registers",Assembly code is hard to understand,Record class for review
+2,4,3,3,4,3,3,4,3,4,3,4,3,4,3,4,3,5,Learn how microcontrollers work from architecture to programming,"Difficulty with language, architecture, debugging",More projects and practices
+2,1,1,1,2,2,1,1,3,2,2,1,3,2,2,1,1,1,Use and program more complex microcontrollers,Remembering low?level instructions,Group competitions
+2,3,2,2,2,2,3,3,2,3,2,2,2,2,2,4,2,4,Operate and control systems through controllers,Confusing topics,Well taught
+2,3,3,3,3,4,4,3,4,3,4,4,4,4,4,3,4,2,Understand how electronic devices work,Topics move too quickly,One extra hour weekly
+2,4,3,3,3,3,3,4,3,2,3,2,2,4,3,4,3,5,How to use assemblers and their importance,Difficulty with some assembly functions,More practical classes
+2,3,3,4,3,3,2,3,3,3,2,3,4,3,2,3,3,4,Use and applications of microcontrollers,Assembly programming,More programming help
+2,4,3,3,2,4,2,4,3,2,1,3,5,1,1,5,2,5,How microcontrollers are used in different areas,I don't know what the code does,Teach real?world applications
+2,5,5,4,4,4,3,4,3,4,3,3,4,4,4,5,3,5,Learn to program and use microcontrollers,Programming styles,More C programming
+2,5,4,5,5,5,5,3,3,4,4,5,5,5,3,5,4,5,Understanding and optimal handling of microcontrollers,None,Good teaching
+2,2,3,3,3,2,3,2,2,3,2,3,3,3,2,2,3,2,Professional assembly programming,Not understanding some topics,Additional reviews
+2,2,3,2,2,2,4,2,3,2,3,3,2,3,3,2,3,1,General programming for professional projects,Too much information,Nothing
+2,3,5,4,4,3,4,3,4,4,4,3,4,5,5,5,5,5,I really want to learn,Laptop failures,Excellent course
+2,3,5,2,4,4,2,4,4,3,3,4,3,4,4,3,2,5,Use microcontrollers efficiently without damaging devices,Adapting to the new language,Everything good

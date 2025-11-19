@@ -1,0 +1,41 @@
+Group,q1_understanding_of_microcontrollers,q2_ability_to_program_microcontroller,q3_microcontroller_sensor_actuator_comm,q4_apply_microcontroller_concepts,q5_debugging_skills_asm_c,q6_identify_fix_hw_sw_errors,q7_use_configure_io_ports_registers,q8_implement_external_interfaces,q9_interpret_datasheets_manuals,q10_apply_product_lifecycle,q11_structuring_code_with_functions,q12_document_projects,q13_confidence_solving_technical_problems,q14_prepared_for_interdisciplinary_projects,q15_autonomous_learning_capability,q16_identify_applications_robotics_iot_automation,q17_course_competencies_professional_usefulness,q18_learning_expectations,q19_anticipated_difficulties,q20_suggestions_for_course_improvement
+1,2,1,1,3,2,3,1,5,3,4,2,2,3,3,2,1,1,I hope to replace Arduino with STM32 for future project implementation.,Everything has different naming conventions ...,I would like to involve more sensors/actuators for real results.
+1,5,4,5,4,4,3,4,3,4,3,4,4,4,3,4,4,5,Knowledge related to microcontrollers and everything about them.,A major difficulty was that I couldn't install STM32CubeMX.,No suggestions.
+1,4,4,3,4,4,4,4,3,3,4,4,3,4,4,5,5,5,My goal is to efficiently program these devices ...,The main difficulty is programming ...,Better explanation of code errors and understanding code.
+1,4,4,5,4,4,4,3,4,3,4,4,5,4,3,3,3,4,Use and understand microcontroller applications.,Sometimes it becomes confusing ...,A small system representation or explanation.
+1,1,1,2,2,1,2,1,2,1,2,2,1,2,2,2,2,1,Program and implement microcontrollers and repair them if needed.,Assembly programming is complex but doable.,None for the moment.
+1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Learn programming and more beyond that.,Topics are dense and complex.,More help in basic topics.
+1,5,5,5,5,4,5,3,2,4,5,5,5,4,3,4,4,5,Understand microcontroller functionality and how to build projects with them.,None.,None.
+1,4,4,4,4,3,3,3,4,3,4,4,4,4,3,3,3,4,Learn new knowledge about assembly language.,Sometimes struggling to get equipment.,Record the classes.
+1,3,2,4,3,3,2,4,3,3,3,3,3,3,2,4,4,4,Program in C.,The strike.,More explanation of the code.
+1,5,5,2,2,3,2,3,1,3,3,4,4,3,2,4,2,5,Learn to program.,Not having a computer.,More explanation.
+1,4,3,4,3,4,4,4,2,3,4,3,4,3,3,4,2,5,Program microcontrollers and explore more languages.,Differences between languages and components.,"More dynamic classes, maybe two activities per class."
+1,5,4,3,4,3,4,5,3,5,3,4,2,3,3,4,4,4,Learn the basics of programming microcontrollers.,Making reports constantly ...,Vary the type of evidence required.
+1,5,5,5,4,4,4,5,4,4,4,5,5,4,4,5,4,5,"Understand how a microcontroller works, its programming, and interaction with sensors/actuators.",When I didn't pay attention I got lost ...,"None, I like the teaching method."
+1,5,3,4,3,4,4,4,4,3,4,4,4,4,3,4,3,4,Learn to program microcontrollers.,Programming logic.,More assembly.
+1,5,4,4,4,4,5,4,3,5,3,5,4,4,3,5,5,5,"Learn how to configure different boards, use libraries, and expand C knowledge.",My computer could not run the configuration software ...,Improve network/connectivity (external to class).
+1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Develop and implement functional projects.,None.,None.
+1,5,5,4,5,5,5,5,4,5,4,5,5,5,5,5,5,5,Program and control microcontrollers and understand internal architecture.,None.,None.
+1,4,3,4,3,3,4,4,4,4,2,4,3,3,3,4,4,5,Learn to program microcontrollers for academic and personal projects.,Difficulties understanding how provided code works.,Explain how the base code works for better understanding.
+1,4,4,4,4,3,3,4,4,3,3,3,3,3,3,4,4,4,Learn how to control a microcontroller.,Not fully understanding microcontroller operation.,Deeper explanation of registers.
+1,4,4,4,4,4,4,4,3,4,4,3,4,4,3,4,4,5,Understand how microcontrollers relate to other subjects.,Programming logic.,Implement more examples.
+2,5,5,5,5,3,4,3,4,4,5,4,3,5,5,4,4,5,"Learn to build robots for international competitions such as sumo, line follower, drones, and personal home automation projects.",Strikes and interruptions during the semester.,Cover motor control with PWM in more detail and introduce I2C communication.
+2,4,3,4,3,4,4,4,3,4,3,4,5,3,3,3,4,5,Strengthen my programming knowledge.,Remembering and correcting C code structure.,"None, I like having practice without time pressure."
+2,4,5,4,3,4,4,5,2,4,3,3,3,3,4,5,5,5,"Understand how microcontrollers work, gain more programming experience, and use them in engineering projects and professional life.",I had difficulty programming in C ...,Team challenges.
+2,4,4,4,4,3,3,4,2,3,3,3,4,4,4,4,4,5,How microcontrollers work and how to apply them to other projects.,We had to learn not to waste microcontroller memory ...,Continue providing the task sheet for each practice.
+2,5,5,4,5,4,4,5,4,3,4,4,4,4,4,4,4,5,Master microcontrollers correctly and learn how to program them.,Programming at times.,None.
+2,4,4,4,4,3,4,3,3,4,3,4,4,4,3,4,3,4,Use microcontrollers and gain more programming knowledge.,Some programming algorithms ...,Continue group practices and provide more online material.
+2,4,4,4,4,3,4,5,5,5,4,4,4,4,3,3,3,4,Learn to program STM32 and improve my programming skills.,Learning in a new programming system ...,Include a bit more theory and reinforce topics like timers and GPIO.
+2,4,3,4,3,3,2,4,3,4,3,3,4,3,3,4,3,4,"Everything related to microcontrollers, their operation, and use.",The course does not study some concepts in depth.,Define the use of some functions more clearly.
+2,4,3,4,3,3,4,4,3,3,4,4,3,4,3,4,4,5,Be able to control programs and microcontrollers to build many projects.,I figured things out but still had doubts.,"More hands-on activities, less theory."
+2,5,5,4,5,3,5,4,3,4,4,4,3,4,5,5,5,5,Program new boards.,Assembly language.,Everything is fine.
+2,3,3,3,3,3,3,3,2,3,2,2,2,2,2,3,2,5,"I don't know, as much as possible.",I feel I'm not at the academic level ...,"It's fine, but strikes/vacations affect learning pace."
+2,4,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,5,Learn how to program microcontrollers and understand their application in robotics.,Creating code and configuring ports ...,Classes at a slower pace.
+2,4,3,2,4,4,3,3,1,2,3,3,4,5,4,5,3,4,Use and control microcontrollers for projects.,The way code is written.,"None, the course and teaching method are complete."
+2,4,4,4,4,4,5,4,3,4,4,4,4,3,3,5,4,5,Use microcontrollers in industry and understand detailed operation.,The structure of the code confuses me ...,Simpler explanation with more introduction before practices.
+2,3,3,3,4,3,3,4,3,3,3,2,3,2,3,4,3,5,Learn to use microcontrollers professionally.,It is complex if you miss early explanations.,The class is good.
+2,5,5,5,5,4,5,3,5,5,5,5,5,5,5,5,4,2,Learn as much as possible about microcontroller usage.,None.,None.
+2,5,5,4,4,3,3,5,4,5,4,4,4,3,4,4,3,5,Learn more microcontroller functions.,Programming.,See more implementations of microcontrollers.
+2,4,4,4,4,3,3,4,3,3,3,4,3,3,3,4,4,4,Gain better control of programs and STM32.,Finding errors and keeping order in code.,More digital slides for examples.
+2,5,5,4,5,5,4,5,4,4,5,5,5,5,4,4,5,5,I learned C and assembly programming.,Code implementation.,No comments.
+2,5,4,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,Programming in C.,Circuit connections.,Teach us how to assemble circuits; we struggle the most there.
