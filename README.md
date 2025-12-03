@@ -54,18 +54,21 @@ Logs include real-world performance metrics captured during hands-on sessions.
 Time-on-task analysis, error distribution per group, difficulty profiling, comparative performance evaluation.
 
 ---
-### **3. MSLQ Survey (MSLQ.csv)**
+### **3. MSLQ-SF Survey (MSLQ.csv)**
 
-Results from a subset of the **Motivated Strategies for Learning Questionnaire (MSLQ)**,  
+Results from a subset of the **Motivated Strategies for Learning Questionnaire Short Form (MSLQ-SF)**,  
 which assesses motivational and self-regulated learning behaviors.
 
 Includes Likert 1–5 items evaluating:
 
-- Intrinsic motivation  
-- Task value  
-- Self-efficacy  
-- Cognitive strategy use  
-- Self-regulation  
+- Task Value (TV)
+- Effort Regulation (ESR)
+- Anxiety (ANX)
+- Elaboration (ELB)
+- Organization (ORG)
+- Intrinsic Goal Orientation (IGO)
+- Metacognitive & Behavioral Self-Regulation (MCR)
+- Time & Resource Management (TRM)
 
 **Uses:**  
 Correlation with learning gains, motivational profiling, regression models, multi-dimensional learning analysis.
@@ -98,7 +101,7 @@ This dataset supports:
 Link to paper: 
 
 ## 👤 Author
-Alejandra Cepeda-Argüelles, Fabián García-Vázquez, Héctor A. Guerrero-Osuna, Perla C. Miranda-Barreras, Jesús A. Nava-Pintor, Luis F. Luque-Vega, Emmanuel Lopez-Neri, Ma. del Rosario Martínez-Blanco
+Alejandra Cepeda-Argüelles, Fabián García-Vázquez, Perla C. Miranda-Barreras, Jesús A. Nava-Pintor, Luis F. Luque-Vega, Sodel Vázquez-Reyes, Ma. del Rosario Martínez-Blanco, and Héctor A. Guerrero-Osuna
 
 # Acknowledgements
 The authors want to thank the Mexican Secretariat of Science, Humanities, Technology and Innovation (SECIHTI by its initials in Spanish) for its support to the National Laboratory of Embedded Systems, Advanced Electronics Design and Micro Systems (LN-SEDEAM by its initials in Spanish), project numbers 282357, 293384, 299061, 314841, 315947, and 321128 and scholarship numbers 1012274.
